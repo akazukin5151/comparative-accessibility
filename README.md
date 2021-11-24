@@ -2,6 +2,8 @@ You can view this on your browser with binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akazukin5151/comparative-accessibility/HEAD)
 
+To run, you need to install `momepy` (https://docs.momepy.org/en/stable/index.html) with `pip install momepy`
+
 You need to download the data yourself. They can't be uploaded to github because they're too large.
 
 - data/india/GTFS
