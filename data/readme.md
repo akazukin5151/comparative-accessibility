@@ -25,6 +25,10 @@ https://data.gov.uk/dataset/65bf62c8-eae0-4475-9c16-a2e81afcbdb0/os-open-roads
 - nodes are point data of the intersections
 - links are the line data of the roads
 - MotorwayJunction are point data of the motorway surrounding london's intersections
+- clipped
+    - borough data from https://data.london.gov.uk/download/statistical-gis-boundary-files-london/9ba8c833-6370-4b11-abdc-314aa020d5e0/statistical-gis-boundaries-london.zip
+- simplified manually with qgis
+    - Douglas-Peucker, 10meters
 
 ## don't know about india, maybe use OSM
 - used overpass API manually

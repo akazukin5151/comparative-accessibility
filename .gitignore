@@ -2,6 +2,8 @@
 data/india/GTFS/*
 data/india/overpass/export.geojson
 data/london/roads/tq/*
+data/london/roads/clipped/*
+data/london/roads/simplified/*
 data/london/RODS_2017/*
 data/london/bus-sequences.csv
 data/london/bus-stops-10-06-15.csv
