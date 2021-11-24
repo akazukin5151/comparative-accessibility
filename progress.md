@@ -1,0 +1,23 @@
+# Delhi
+- [x] Number of routes
+- [x] Number of stops
+    - [ ] Aggregate by district
+        - Test if point (stop) is in district (polygon)
+- [x] Average number of stops per route
+- [x] Average route length
+- [x] Average distance between stops
+- [x] Network diameter
+- [x] Network density
+- [ ] % of population from 15m walk of a bus stop
+
+# London
+- [x] Number of routes
+- [x] Number of stops
+    - [ ] Aggregate by district
+    - Test if point (stop) is in district (polygon)
+- [x] Average number of stops per route
+- [x] Average route length
+- [x] Average distance between stops
+- [x] Network diameter
+- [x] Network density
+- [ ] % of population from 15m walk of a bus stop
