@@ -33,3 +33,7 @@ https://data.gov.uk/dataset/65bf62c8-eae0-4475-9c16-a2e81afcbdb0/os-open-roads
 ## don't know about india, maybe use OSM
 - used overpass API manually
 - code is in code.md
+
+# borders
+## gadm36_IND_shp.zip
+- https://gadm.org/download_country.html
