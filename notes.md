@@ -8,6 +8,7 @@
     - calculated; Bar graph
 - distance/walking time to nearest station/stop
     - calculated; raster
+    - distance from where?
 - Centrality analysis of the roads & trains & bus
     - calculated; line
     - Compare histograms, means, s.d. 

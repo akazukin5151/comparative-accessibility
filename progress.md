@@ -9,6 +9,9 @@
 - [x] Network diameter
 - [x] Network density
 - [ ] % of population from 15m walk of a bus stop
+- [ ] Centrality analysis
+- [ ] Distance from each bus stop to city center (point with highest centrality?)
+- [ ] Modal share
 
 # London
 - [x] Number of routes
@@ -21,3 +24,6 @@
 - [x] Network diameter
 - [x] Network density
 - [ ] % of population from 15m walk of a bus stop
+- [ ] Centrality analysis
+- [ ] Distance from each bus stop to city center (point with highest centrality?)
+- [ ] Modal share
