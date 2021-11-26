@@ -1,6 +1,7 @@
 .ipynb_checkpoints/*
 data/india/GTFS/*
 data/india/overpass/export.geojson
+data/india/overpass/export2.geojson
 data/india/overpass/roads_clipped/*
 data/india/borders/*
 data/london/roads/tq/*
